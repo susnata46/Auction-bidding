@@ -1,2 +1,1 @@
-# hello-world
-My first Project
+A simple auction-bidding program handling highest bids and annoucing winner.
